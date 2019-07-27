@@ -82,6 +82,11 @@ target/
 *.pyc
 __pycache__/
 local_settings.py
+settings.ini
+staticfiles
 
 .env
 db.sqlite3
+
+# Vim
+*.sw[op]
